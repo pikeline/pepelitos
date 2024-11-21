@@ -24,4 +24,4 @@ To get started with the project, clone the repository and follow the setup instr
     ```sh
     git clone https://github.com/yourusername/pepelitos-club.git
     ```
-2. Insert your API key into bot.json
+    2. Insert your API key into bot.json
