@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=pikeline_pepelitos&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=pikeline_pepelitos)
+
 # Pepelitos Club
 
 Welcome to the Pepelitos  repository!
